@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-sms-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/dongyimai-user-web" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dongyimai-dao/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-pojo/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-common/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-shop-web/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-solr-util/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-portal-web/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-manager-web/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-content-service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-content-interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-sellergoods-service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/dongyimai-sellergoods-interface/target/maven-archiver/pom.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
